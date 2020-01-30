@@ -45,7 +45,7 @@ For more information, see the
 ## Installation
 
 ### Compatibility
-This example uses .NET Core 2.1 with the Microsoft Razor pages web framework.
+This example uses .NET Core 2.2 with the Microsoft Razor pages web framework.
 The SDK itself is compatible with .NET Core 2.0 and .NET Framework 4.5 or later versions.
 
 The DocuSign example files will work with .NET Core or Framework.
@@ -63,7 +63,7 @@ If the solution doesn't start in Visual Studio, here are some suggestions:
 
 * If you see core errors, update to the current version of Visual Studio
   and install the 
-  [.NET Core 2.1 SDK](https://www.microsoft.com/net/download/thank-you/dotnet-sdk-2.1.403-windows-x64-installer).
+  [.NET Core 2.2 SDK](https://dotnet.microsoft.com/download/dotnet-core/2.2).
   
   The free Visual Studio Community version can be used for this solution.
 * More errors? Open the Visual Studio installer and install
